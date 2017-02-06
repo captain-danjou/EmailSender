@@ -1,0 +1,10 @@
+/Users/david.weaver/Projects/EmailSender/src/main/java/com/davidweaver/emailsender/Model/EmailSendRequestHandler.java
+/Users/david.weaver/Projects/EmailSender/src/main/java/com/davidweaver/emailsender/Entities/DTO/EmailSendAck.java
+/Users/david.weaver/Projects/EmailSender/src/main/java/com/davidweaver/emailsender/Entities/DTO/EmailSendRequest.java
+/Users/david.weaver/Projects/EmailSender/src/main/java/com/davidweaver/emailsender/RestResources/SendEmailRequestsResource.java
+/Users/david.weaver/Projects/EmailSender/src/main/java/com/davidweaver/emailsender/Model/EmailSendAckRequestHandler.java
+/Users/david.weaver/Projects/EmailSender/src/main/java/com/davidweaver/emailsender/Model/SMTPService.java
+/Users/david.weaver/Projects/EmailSender/src/main/java/com/davidweaver/emailsender/DataAccess/TestEmailSenderDAOImpl.java
+/Users/david.weaver/Projects/EmailSender/src/main/java/com/davidweaver/emailsender/DataAccess/EmailSenderDAO.java
+/Users/david.weaver/Projects/EmailSender/src/main/java/com/davidweaver/emailsender/EmailSender.java
+/Users/david.weaver/Projects/EmailSender/src/main/java/com/davidweaver/emailsender/RestResources/SendEmailAcksResource.java
