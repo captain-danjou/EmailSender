@@ -13,7 +13,7 @@ You can POST to SendEmailRequests/, and this will forward an email message to an
 
 You can GET the SendEmailAcks/{id} to return the ack you're interested in.
 
-I've just been using a chrome plugin called "postman" as my test client (https://www.getpostman.com/docs/introduction), since there's no point reinventing the wheel. So once you're running the project with `mvn spring-boot:run`, then you can just hit http://localhost:8080/SendEmailAcks/ in your browser.
+I've just been using a chrome plugin called "postman" as my test client (https://www.getpostman.com/docs/introduction), since there's no point reinventing the wheel. So once you're running the project with `mvn spring-boot:run`, then you can just hit eg. http://localhost:8080/SendEmailAcks/1 in your browser.
 
 The SendEmailRequests/ POST requires a body of the form, eg:
 
