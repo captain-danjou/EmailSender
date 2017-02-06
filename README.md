@@ -31,7 +31,7 @@ The SendEmailRequests/ POST requires a body of the form, eg:
 
 }
 
-I've been using JangoSMTP as my SMTP relay. I've set-up a trial account (config is all in the SessionWrapperFactory class), which should be good for the next 30 days (from 05/02/2017).
+I've been using JangoSMTP as my SMTP relay. I've set-up a trial account (config is all in the SessionWrapperFactory class), which should be good for the next 30 days (unti 07/03/2017).
 
 Improvements:
   
