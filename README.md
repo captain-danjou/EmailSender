@@ -18,11 +18,17 @@ I've just been using a chrome plugin called "postman" as my test client (https:/
 The SendEmailRequests/ POST requires a body of the form, eg:
 
 {
+	
 	"requestId":"6",
-  "fromEmailAddress":"from@gmail.com",
-  "toEmailAddress":"to@gmail.com",
-  "subject":"A test",
-  "body":"Hi, Just a quick test"
+  
+	"fromEmailAddress":"from@gmail.com",
+  
+	"toEmailAddress":"to@gmail.com",
+  
+	"subject":"A test",
+  
+	"body":"Hi, Just a quick test"
+
 }
 
 I've been using JangoSMTP as my SMTP relay. I've set-up a trial account (config is all in the SessionWrapperFactory class), which should be good for the next 30 days (from 05/02/2017).
