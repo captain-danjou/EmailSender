@@ -1,2 +1,3 @@
 com/davidweaver/emailsender/Model/EmailSendAckRequestHandlerTest.class
-com/davidweaver/emailsender/RestResources/SendEmailAcksResourceTest.class
+com/davidweaver/emailsender/Model/SMTPServiceTest.class
+com/davidweaver/emailsender/Model/EmailSendRequestHandlerTest.class

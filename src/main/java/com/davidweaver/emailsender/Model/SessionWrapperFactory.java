@@ -14,10 +14,10 @@ import static javax.mail.Session.*;
 @Component
 class SessionWrapperFactory {
 
-    public static final String SMTP_RELAY_USERNAME = "danjou";
-    public static final String SMTP_RELAY_PASSWORD = "Passport1!";
-    public static final String SMTP_RELAY = "express-relay.jangosmtp.net";
-    public static final String SMTP_RELAY_PORT = "2525";
+    public static final String SMTP_RELAY_USERNAME = "AKIAJP4AMVRBAITCUHJA";
+    public static final String SMTP_RELAY_PASSWORD = "Ann6gaf/lXBOtd3CG03IZautA4QSMwZNy+xBIgRg9Ikm";
+    public static final String SMTP_RELAY =  "email-smtp.us-west-2.amazonaws.com";
+    public static final String SMTP_RELAY_PORT = "25";
 
     SessionWrapper buildAuthenticatedSession() {
         SessionWrapper session = new SessionWrapper();
